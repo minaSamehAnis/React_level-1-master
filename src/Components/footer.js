@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <>
       <footer>
-        Designed and developed by Courses4Arab.com
+        Designed and developed by Mina Sameh
         <span>🧡</span>
       </footer>
     </>
